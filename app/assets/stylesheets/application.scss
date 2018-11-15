@@ -1,0 +1,43 @@
+@import url("http://fonts.googleapis.com/ css?family=Open+Sans:400");
+@import "components/*"; 
+
+.zoom {
+        -ms-transform: scale(1.2);
+        -ms-transform-origin: 50% 0; /* IE */
+        -moz-transform: scale(1.2);
+        -moz-transform-origin: 50% 0 0;  /* Mozilla */ 
+        -webkit-transform: scale(1.2);
+        -webkit-transform-origin: 50% 0 0;  /* Chrome, Safari, Opera */
+     }
+     
+body {
+	font-family: "Open Sans";
+	background:url("image.jpg"); 
+
+ }
+
+ bodyesc {
+    font-family: "Open Sans";
+
+
+ }
+#Headers {
+    text-align: center; 
+    margin:50px auto;
+    width:1300px;
+}
+
+ #container {
+    text-align: center; 
+    margin:50px auto;
+    width:900px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(87, 8, 129, .05);
+    color: white;
+}
