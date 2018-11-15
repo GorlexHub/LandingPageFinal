@@ -10,7 +10,7 @@
 <li>Corentin <em><strong>Nadeau</strong></em></li>
 <li>Maxime <em><strong>Martin</strong></em></li>
  <li>Victor <em><strong>Douay</strong></em></li>
-  li>Hava<em><strong>Guerni</strong></em></li>
+ <li>Hava<em><strong>Guerni</strong></em></li>
 </ul>
 <pre><code></code></pre>
 
